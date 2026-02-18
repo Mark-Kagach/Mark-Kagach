@@ -1,4 +1,4 @@
-## Hi, I'm Mark! I work on AI safety research. Here's my repo guide:
+### Hi, I'm Mark! I work on AI safety research. Here's my repo guide:
 
 - [learning_techical_ai_safety](https://github.com/Mark-Kagach/learning_techical_ai_safety):
 - [learning_full_stack_web_dev](https://github.com/Mark-Kagach/learning_full_stack_web_dev):
