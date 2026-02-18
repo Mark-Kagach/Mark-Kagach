@@ -6,4 +6,4 @@ I work on AI safety research. Here's the guide to my repos:
 - [learning_full_stack_web_dev](https://github.com/Mark-Kagach/learning_full_stack_web_dev):
 - [quantifying-the-value-of-delayed-ovarian-aging](https://github.com/EliasSchlie/quantifying-the-value-of-delayed-ovarian-aging)
 
-For more see my website markkagach.com !!!
+For more see my website markkagach.com !!! (or My Evolving Almanack !!!)
