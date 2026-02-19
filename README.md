@@ -8,4 +8,4 @@
 
 4. **[yearly_work_hours](https://github.com/Mark-Kagach/yearly_work_hours)**: For several years I have been tracking my weekly work hours, it is usually between 50-60, with outliers of 40 or 70. (These are real sitting-on-my-ass-and-working hours, not "hanging out in library hours"! ♥)
 
-**For more see my website [markkagach.com](https://markkagach.com) (or [My Evolving Almanack](https://markkagach.substack.com/s/my-evolving-almanack) 🌞🌞🌞**
+**For more see my website [markkagach.com](https://markkagach.com) (or [My Evolving Almanack](https://markkagach.substack.com/s/my-evolving-almanack)). 🌞**
